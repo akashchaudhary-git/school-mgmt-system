@@ -1,0 +1,19 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.login-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.forgot-link {
+    text-decoration: none;
+    justify-content: center;
+    display: flex;
+
+}
